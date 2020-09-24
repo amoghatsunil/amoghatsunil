@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Amogha,
 
-
-I'm Amogha,
-A Robotics and Computer Vision enthusiast
+#### Automation and Robotics Undergrad at KLE Technolgical university
+##### A Robotics and Computer Vision enthusiast
 
 
 - 🔭 I’m currently working on AbolVani, Agrover.
