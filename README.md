@@ -3,8 +3,6 @@
 #### Automation and Robotics Undergrad at KLE Technolgical university
 ##### A Robotics and Computer Vision enthusiast
 
-
-- 🔭 I’m currently working on AbolVani, Agrover.
 - 🌱 I’m currently learning ROS, CV
 - 👯 I’m looking to collaborate on Opensource Projects
 - 💬 Ask me about Robotics, Kinematics, ML, Image processing, ROS.
