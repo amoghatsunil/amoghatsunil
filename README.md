@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning ROS, CV
 - 👯 I’m looking to collaborate on Opensource Projects
-- 💬 Ask me about Robotics,Kinematics,ML,Image processing,
-- ⚡ Fun fact: Coffee <3
+- 💬 Ask me about Robotics,Kinematics,ML,Image processing.
 
 
 
