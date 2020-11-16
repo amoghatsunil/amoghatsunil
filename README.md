@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Amogha,
 
 #### Automation and Robotics Undergrad at KLE Technolgical university
-##### A Robotics and Computer Vision enthusiast!!
+##### A Robotics and Computer Vision enthusiast
 
 - 🌱 I’m currently learning ROS, CV
 - 👯 I’m looking to collaborate on Opensource Projects
